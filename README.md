@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Todo app
 
 This is a simple todo app.
 
